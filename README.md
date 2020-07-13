@@ -4,13 +4,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my free time, I mainly write Android applications. One of those applications is currently Available on the Play Store. [Calculendar](https://play.google.com/store/apps/details?id=com.kennethfechter.calculendar) is an application that allows you to calculate the number of days between two dates. I am currently trying to learn more about iOS development, as well as Rust, Python, and .NET Core. I have several projects hosted on GitHub. However a large number of my projects, including my Android apps, are hosted on my [GitLab Profile](https://gitlab.com/kenneth.fechter). My Android applications are built and deployed utilizing a CI/CD pipeline of GitLab CI with FastLane. This pipeline builds, tests, and then publishes the application to the relevant ring of the Play Store.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Many people assume that due to my career in the Software Engineering/DevOps/SRE fields, that I have a degree in Computer Science. They are generally surprised to find that I have a Bachelors in Biomedical Engineering. <!-- Maybe more stuff here? -->
+
+I can be reached via [Email](mailto:kenneth.fechter@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/kafechter)
 
 ##### Additional Links
 
 * [My Blog](https://medium.com/@kenneth.fechter)
-* [LinkedIn](https://www.linkedin.com/in/kafechter)
-* [Email](mailto:kenneth.fechter@gmail.com)
 * [StackOverflow](https://stackoverflow.com/users/3500033/fullmetal99012)
 * [Twitch](https://www.twitch.tv/fullmetal99012)
 * [Youtube](https://www.youtube.com/c/KennethFechter)
