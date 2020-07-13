@@ -1,4 +1,4 @@
-Found out about this GitHub profile thing pretty recently, and am trying out replacing my Vue.JS personal site with it. 
+Found out about this GitHub profile thing pretty recently, and am trying out replacing my Vue.JS personal site with it.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently Living in Dayton, Ohio and working (Remotely) as a Site Reliability Engineer for a Healthcare Company in Mason. Currently working with PowerShell and TeamCity, and Learning AWS. Before transitioning into the DevOps/SRE role, I was formerly a Software Engineer (ASP .NET MVC, C#) at the same company. My resume can be found on [Google Drive](https://drive.google.com/open?id=1SzQw_9FmnZ_4mQ8AgT9UX7e4CGwc9_7mmHsJlqcZcPU)
 
