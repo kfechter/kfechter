@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my free time, I mainly write Android applications. One of those applications is currently Available on the Play Store. [Calculendar](https://play.google.com/store/apps/details?id=com.kennethfechter.calculendar) is an application that allows you to calculate the number of days between two dates. I am currently trying to learn more about iOS development, as well as Rust, Python, and .NET Core. I have several projects hosted on GitHub. However a large number of my projects, including my Android apps, are hosted on my [GitLab Profile](https://gitlab.com/kenneth.fechter). My Android applications are built and deployed utilizing a CI/CD pipeline of GitLab CI with FastLane. This pipeline builds, tests, and then publishes the application to the relevant ring of the Play Store.
 
 
-I can be reached via [Email](mailto:kenneth.fechter@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/kafechter)
+#### I can be reached via [Email](mailto:kenneth.fechter@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/kafechter)
 
 ##### Additional Links
 
