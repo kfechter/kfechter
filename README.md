@@ -9,7 +9,7 @@
 
 ##### Additional Links
 
-* [My Blog](https://medium.com/@kenneth.fechter)
+* [My Blog](https://blog.kennethfechter.com)
 * [StackOverflow](https://stackoverflow.com/users/3500033/fullmetal99012)
 * [Twitch](https://www.twitch.tv/fullmetal99012)
 * [Youtube](https://www.youtube.com/c/KennethFechter)
