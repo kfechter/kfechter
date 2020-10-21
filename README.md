@@ -7,9 +7,12 @@
 
 #### I can be reached via [Email](mailto:kenneth.fechter@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/kafechter)
 
-##### Additional Links
+##### Additional Links (Including ones found in the paragraphs above)
 
+* [Resume](https://drive.google.com/open?id=1SzQw_9FmnZ_4mQ8AgT9UX7e4CGwc9_7mmHsJlqcZcPU)
 * [My Blog](https://blog.kennethfechter.com)
+* [GitLab](https://gitlab.com/kenneth.fechter)
+* [Calculendar](https://play.google.com/store/apps/details?id=com.kennethfechter.calculendar)
 * [StackOverflow](https://stackoverflow.com/users/3500033/fullmetal99012)
 * [Twitch](https://www.twitch.tv/fullmetal99012)
 * [Youtube](https://www.youtube.com/c/KennethFechter)
