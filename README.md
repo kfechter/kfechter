@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently Living in Dayton, Ohio. After 5 years of full time work, and an additional 2 of co-op work, I left my Site Reliability Engineering position to pursue a career at Intel Corporation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently Living in Delhi Township, Ohio. After 5 years of full time work, and an additional 2 of co-op work, I left my Site Reliability Engineering position to pursue a career at Intel Corporation.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I worked with PowerShell and TeamCity, and had a brief stint working with AWS. Before transitioning into the DevOps/SRE role, I was formerly a Software Engineer (ASP .NET MVC, C#) at the same company. My resume can be found on [Google Drive](https://drive.google.com/open?id=1SzQw_9FmnZ_4mQ8AgT9UX7e4CGwc9_7mmHsJlqcZcPU)
 
