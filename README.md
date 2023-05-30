@@ -12,7 +12,7 @@
 
 ##### Additional Links (Including ones found in the paragraphs above)
 
-* [Resume](https://drive.google.com/open?id=1SzQw_9FmnZ_4mQ8AgT9UX7e4CGwc9_7mmHsJlqcZcPU)
+* [Resume](https://drive.google.com/file/d/1TYHrjm6pBq-Fpfv-lO-jCJWHGAFqIPGx/view?usp=sharing)
 * [Calculendar](https://play.google.com/store/apps/details?id=com.kennethfechter.calculendar)
 * [StackOverflow](https://stackoverflow.com/users/3500033/fullmetal99012)
 * [Twitch](https://www.twitch.tv/TheSecondKen)
