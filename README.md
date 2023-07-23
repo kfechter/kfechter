@@ -1,6 +1,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently Living in Delhi Township, Ohio. After 5 years of full time work, and an additional 2 of co-op work, I left my Site Reliability Engineering position to pursue a career at Intel Corporation.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I worked with PowerShell and TeamCity, and had a brief stint working with AWS. Before transitioning into the DevOps/SRE role, I was formerly a Software Engineer (ASP .NET MVC, C#) at the same company. My resume can be found on [Google Drive](https://drive.google.com/open?id=1SzQw_9FmnZ_4mQ8AgT9UX7e4CGwc9_7mmHsJlqcZcPU)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I worked with PowerShell and TeamCity, and had a brief stint working with AWS. Before transitioning into the DevOps/SRE role, I was formerly a Software Engineer (ASP .NET MVC, C#) at the same company.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prior to my graduation and full-time employment, I worked in various industries during my co-op and as an intern. Starting with healthcare, I worked at Cincinnati Children's, researching how genetic mutations affect medical treatment. I helped write a genetics analysis system in Perl, as well as [assisting with publishing a paper on the subject](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4119178/). I then worked as a research co-op at the company I currently work for. In that position I worked on a Python script to analyze excel sheets of clinical trial data. I interned breifly at Strap LLC, where I worked on writing Go unit tests for a wearble data analytics platform. Then my last job before transitioning to full time was MedaCheck, where I worked on the Python and Android applications for the medication adherence platform. 
@@ -12,7 +12,6 @@
 
 ##### Additional Links (Including ones found in the paragraphs above)
 
-* [Resume](https://drive.google.com/file/d/1TYHrjm6pBq-Fpfv-lO-jCJWHGAFqIPGx/view?usp=sharing)
 * [Calculendar](https://play.google.com/store/apps/details?id=com.kennethfechter.calculendar)
 * [StackOverflow](https://stackoverflow.com/users/3500033/fullmetal99012)
 * [Twitch](https://www.twitch.tv/TheSecondKen)
