@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently Living in Delhi Township, Ohio. After 5 years of full time work, and an additional 2 of co-op work, I left my Site Reliability Engineering position to pursue a career at Intel Corporation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently Living in Delhi Township, Ohio. Worked at Intel from 2021 to 2023, when I was laid off. Currently working at Johnson & Johnson MedTech Surgery. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I worked with PowerShell and TeamCity, and had a brief stint working with AWS. Before transitioning into the DevOps/SRE role, I was formerly a Software Engineer (ASP .NET MVC, C#) at the same company.
 
